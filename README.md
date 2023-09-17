@@ -1,7 +1,7 @@
 ![ai_banner](https://github.com/IM-not-AI/IM-not-AI/assets/113378671/4df88934-9eb7-456f-8b1f-bece88ada367)
 <h1 align="center">Hi 👋, I'm Isaac Maciel</h1>
 <h3 align="center">Specialist: Machine Learning, Natural Processing Language & Computer Vision</h3>
-![video_gif_logo](https://github.com/IM-not-AI/IM-not-AI/assets/113378671/f547643c-9ade-481d-a4ed-39752ccb93b1)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-not-ai&label=Profile%20views&color=0e75b6&style=flat" alt="im-not-ai" /> </p>
