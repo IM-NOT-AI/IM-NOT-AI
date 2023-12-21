@@ -1,6 +1,6 @@
 ![ai_banner](https://github.com/IM-not-AI/IM-not-AI/assets/113378671/4df88934-9eb7-456f-8b1f-bece88ada367)
 <h1 align="center">Hi 👋, I'm Isaac Maciel</h1>
-<h3 align="center">Specialist: Machine Learning, Natural Processing Language & Computer Vision</h3>
+<h3 align="center">Machine Learning | Data Science | Data Analysis</h3>
 
 
 
