@@ -1,4 +1,6 @@
-![gif_isaac_nome](https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180)
+<p align="center">
+  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome">
+</p>
 <h1 align="center"> (I)saac (M)aciel not (A)rtificial (I)ntelligence 
 <h3 align="center">Machine Learning | Data Science | Data Analysis</h3>
 
