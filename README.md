@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome">
 </p>
-<h1 align="center"> (I)saac (M)aciel not (A)rtificial (I)ntelligence 
-<h3 align="center">Machine Learning | Data Science | Data Analysis</h3>
+<h1 align="center"> Artificial Intelligence | Machine Learning | Data Science| Data Analysis
+<h3 align="center"> Isaac Maciel not Artificial Intelligence</h3>
 
 
 
