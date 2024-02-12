@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome" width="500">
+  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome" width="500"> 
 </p>
+
+
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Visão+Computacional;Machine+Learning;Data+Science;Data+Analysis)](Seu_Link_do_GitHub)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C4C&size=30&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Vision;Machine+Learning;Data+Science;Data+Analysis)](Seu_Link_do_GitHub)
+  
 </div>
+
 
 <h1 align="center"> Artificial Intelligence | Machine Learning | Data Science</h1>
 <h2 align="center"> Isaac Maciel not Artificial Intelligence</h2>
