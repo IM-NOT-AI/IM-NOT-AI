@@ -7,9 +7,10 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=30&center=true&vCenter=true&width=800&lines=Mathematics+is+the+alphabet+with+which+God+has+written+the+universe.+-+Galileo+Galilei)](Seu_Link_do_GitHub)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=30&center=true&vCenter=true&width=800&lines=Mathematics+is+the+alphabet+with+which+God+has+written+the+universe.+-+Galileo+Galilei+XVII)](Seu_Link_do_GitHub)
 
 </div>
+
 
 
 
