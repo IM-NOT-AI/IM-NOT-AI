@@ -7,11 +7,13 @@
 
 
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=30&center=true&vCenter=true&width=800&lines=Mathematics+is+the+alphabet+with+which+God+has+written+the+universe.+-+Galileo+Galilei+XVII)](Seu_Link_do_GitHub)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mathematics+is+the+alphabet;with+which+God+has+written;the+universe.+-+Galileo+Galilei+XVII&font=Fira+Code&center=true&width=500&height=80&color=F1C40F&vCenter=true&size=22" />
+  </a>
+</p>
 
-</div>
 
 
 
