@@ -1,12 +1,15 @@
 <h2 align="center"><span style="color: #DAA520;">Machine Learning | Computer Vision</span></h2>
 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 <p align="center">
   <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome" width="500"> 
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
