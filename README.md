@@ -28,20 +28,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-
-</a>
-<a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
-  <img align="left" alt="anmolpant's Spotify" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/spotify.png" />
-</a>
-<a href="https://leetcode.com/anmolpant/">
-  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png" />
-</a>
-<a href="https://github.com/anmolpant/anmolpant/blob/master/assets/Anmol's%20Resume.pdf">
-  <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
-</a>
- <br /> <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-not-ai&label=Profile%20views&color=0e75b6&style=flat" alt="im-not-ai" /> </p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on **Machine Learning Model for John Deere Company**
 
