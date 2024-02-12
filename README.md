@@ -28,7 +28,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 - 🔭 I’m currently working on **Machine Learning Model for John Deere Company**
 
