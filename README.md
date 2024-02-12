@@ -8,18 +8,18 @@
 
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Typing SVG for Galileo's quote in gold color -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Mathematics+is+the+alphabet;with+which+God+has+written;the+universe;-+Galileo+Galilei,+XVII&font=Fira+Code&center=true&width=500&height=80&color=F1C40F&vCenter=true&size=22" />
   </a>
 </p>
-
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Typing SVG for Steve McConnell's quote in ruby red -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+is+just+another+way;to+apply+mathematical+logic;to+solve+problems.;-+Steve+McConnell,+XXI&font=Fira+Code&center=true&width=500&height=80&color=8B0000&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+is+just+another+way;to+apply+mathematical+logic;to+solve+problems.;-+Steve+McConnell,+XXI&font=Fira+Code&center=true&width=500&height=80&color=9B111E&vCenter=true&size=22" />
   </a>
 </p>
+
 
 
 
