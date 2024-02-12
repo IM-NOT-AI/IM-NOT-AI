@@ -2,6 +2,7 @@
 
 
 
+
 <p align="center">
   <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome" width="500"> 
 </p>
