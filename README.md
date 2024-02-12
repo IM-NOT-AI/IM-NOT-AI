@@ -5,6 +5,12 @@
 <h1 align="center"> Artificial Intelligence | Machine Learning | Data Science</h1>
 
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=30&center=true&vCenter=true&width=800&lines=Mathematics+is+the+alphabet+with+which+God+has+written+the+universe.+-+Galileo+Galilei)](Seu_Link_do_GitHub)
+
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-not-ai&label=Profile%20views&color=0e75b6&style=flat" alt="im-not-ai" /> </p>
