@@ -28,15 +28,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-- 🔭 I’m currently working on **Machine Learning Model for John Deere Company**
 
-- 🌱 I’m currently learning **Python: TensorFlow, OpenCV, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib and other libraries/tools.**
 
-- 💬 Ask me about **Machine Learning Models**
-
-- 📫 How to reach me **isaac.mgl.99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
