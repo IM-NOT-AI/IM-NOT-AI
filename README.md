@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome">
+  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/0a6e0c0f-fcdf-4ccc-af00-63e30836d180" alt="gif_isaac_nome" width="250">
 </p>
+
 <h1 align="center"> Artificial Intelligence | Machine Learning | Data Science</h1>
 <h2 align="center"> Isaac Maciel not Artificial Intelligence</h2>
 <h3 align="center"> (IM-not-AI)</h3>
