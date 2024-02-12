@@ -1,7 +1,7 @@
 <h2 align="center"><span style="color: #DAA520;">Machine Learning | Computer Vision</span></h2>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 
 
