@@ -5,9 +5,10 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C40F&size=30&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Vision;Machine+Learning;Data+Science;Data+Analysis)](Seu_Link_do_GitHub)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Vision;Machine+Learning;Data+Science;Data+Analysis)](Seu_Link_do_GitHub)
 
 </div>
+
 
 
 
