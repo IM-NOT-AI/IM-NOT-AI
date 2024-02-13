@@ -121,17 +121,17 @@
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-not-ai&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
   </a>
