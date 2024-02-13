@@ -65,8 +65,6 @@
   </a>
 </p>
 
-
-
 <h3>☁️ Cloud Servers</h3>
   <p align="left">
     <a href="https://skillicons.dev">
@@ -75,7 +73,18 @@
   </p>
 </details>
 
-      
+<h3>🐧 Others</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Icon"/>
+    <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png" alt="Icon"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Icon"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Icon"/>
+  </a>
+</p>
+
+
+
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
