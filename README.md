@@ -110,9 +110,10 @@
     <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=Ngrok&logoColor=white" alt="Ngrok Badge"/>
     <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio Badge"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge"/>
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI Badge"/>
   </a>
 </p>
+
 
 
 
