@@ -115,20 +115,9 @@
 </p>
 
 
-
-
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-maciel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-maciel/" height="30" width="40" /></a>
-<a href="https://instagram.com/im.not.ai.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.not.ai.official" height="30" width="40" /></a>
-<a href="https://medium.com/@isaac.maciel.gc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isaac.maciel.gc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@im.not.ai.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@im.not.ai.99" height="30" width="40" /></a>
-<a href="https://discord.gg/623206153555542056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="623206153555542056" height="30" width="40" /></a>
-</p>
 
 
 
@@ -137,3 +126,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en" alt="im-not-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-not-ai&" alt="im-not-ai" /></p>
+
+
+
+
+<details> 
+<summary><h2>🎙️ Social Media</h2></summary>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-maciel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-maciel/" height="30" width="40" /></a>
+<a href="https://instagram.com/im.not.ai.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.not.ai.official" height="30" width="40" /></a>
+<a href="https://medium.com/@isaac.maciel.gc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isaac.maciel.gc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@im.not.ai.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@im.not.ai.99" height="30" width="40" /></a>
+<a href="https://discord.gg/623206153555542056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="623206153555542056" height="30" width="40" /></a>
+</p>
