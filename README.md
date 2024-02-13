@@ -42,18 +42,13 @@
   <details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
 
-<details>
-  <summary><strong>🛠️ Tools - Languages & Softwares</strong></summary>
-  <br>
-
-  <h3>- Cloud Servers</h3>
+<h3>- Cloud Servers</h3>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Servers Icons"/>
     </a>
   </p>
 </details>
-
 
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
