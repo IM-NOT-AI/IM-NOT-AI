@@ -65,23 +65,37 @@
   </a>
 </p>
 
+<h3>🛢 Databases</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite"/>
+  </a>
+</p>
+
+
+
 <h3>☁️ Cloud Servers</h3>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Servers Icons"/>
-    </a>
-  </p>
-</details>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  </a>
+</p>
+
 
 <h3>🐧 Others</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Icon"/>
-    <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png" alt="Icon"/>
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Icon"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Icon"/>
     <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Icon"/>
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Icon"/>
   </a>
 </p>
+
 
 
 
