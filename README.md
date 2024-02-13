@@ -45,7 +45,7 @@
 <h3> ⌨ Languages & Libraries</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,"/>
+      <img src="https://skillicons.dev/icons?i=py,r,cpp,html,css,md"/>
     </a>
   </p>
 </details>
