@@ -1,8 +1,5 @@
-<h2 align="center"><span style="color: #DAA520;">Artificial intelligence</span></h2>
-<h2 align="center"><span style="color: #DAA520;">Machine Learning & Data Science</span></h2>
-
 <p align="center">
-  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/c78a106a-f9a9-4c9e-9a8d-cff89c7c41f9" alt="github-image-readme-h2-title" width="500"> 
+  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/393d03fe-1f87-4fa0-9684-3c0b133989ba" alt="github-image-readme-h2-title" width="500"> 
 </p>
 
 
