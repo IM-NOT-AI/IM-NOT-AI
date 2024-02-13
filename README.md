@@ -42,7 +42,7 @@
   <details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
 
-<h3>* Cloud Servers</h3>
+<h3># Cloud Servers</h3>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Servers Icons"/>
