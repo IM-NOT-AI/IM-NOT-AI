@@ -35,6 +35,18 @@
   <summary><h2>📚 Repositories - Design Pattern</h2></summary>
 
 
+<details> 
+  <summary><h2>📺 YouTube - Videos</h2></summary>
+
+
+  <details> 
+  <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
+
+
+  <details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-maciel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-maciel/" height="30" width="40" /></a>
