@@ -116,20 +116,28 @@
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
+<p align="center">
+  <a href="https://github.com/im-not-ai">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
+  </a>
+  <a href="https://github.com/im-not-ai">
+    <img src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/im-not-ai">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-not-ai&theme=dark" alt="GitHub Streak Stats"/>
+  </a>
+</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact" alt="im-not-ai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en" alt="im-not-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-not-ai&" alt="im-not-ai" /></p>
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 
 <details> 
@@ -141,3 +149,5 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@im.not.ai.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@im.not.ai.99" height="30" width="40" /></a>
 <a href="https://discord.gg/623206153555542056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="623206153555542056" height="30" width="40" /></a>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
