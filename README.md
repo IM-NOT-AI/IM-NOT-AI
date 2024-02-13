@@ -42,13 +42,15 @@
   <details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
 
-<h3> ⌨ Languages & Libraries</h3>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,r,cpp,html,css,md"/>
-    </a>
-  </p>
-</details>
+<h3>⌨ Languages & Libraries</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,html,css,md" alt="Languages Icons"/>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+  </a>
+</p>
+
 
 <h3>☁️ Cloud Servers</h3>
   <p align="left">
