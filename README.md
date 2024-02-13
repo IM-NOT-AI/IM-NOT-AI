@@ -39,6 +39,8 @@
 <details> 
   <summary><h2>📺 YouTube - Videos & Tutorials</h2></summary>
 
+  <h3>🔜 SOON</h3>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <details> 
