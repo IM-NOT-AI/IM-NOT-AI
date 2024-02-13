@@ -34,10 +34,12 @@
 <details open>
   <summary><h2>📚 Repositories - Design Pattern</h2></summary>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <details> 
   <summary><h2>📺 YouTube - Videos & Tutorials</h2></summary>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
