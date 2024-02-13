@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IM-NOT-AI/IM-not-AI/assets/113378671/393d03fe-1f87-4fa0-9684-3c0b133989ba" alt="github-image-readme-h2-title" width="500"> 
+  <img src="https://raw.githubusercontent.com/IM-NOT-AI/IM-not-AI/main/assets/113378671/ca376807-f1f0-483b-84d3-7b547b78c6ec" alt="github-image-readme-h2-title-removebg" width="500"> 
 </p>
 
 
