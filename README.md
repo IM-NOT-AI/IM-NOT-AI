@@ -34,21 +34,12 @@
 <details open>
   <summary><h2>📚 Repositories - Design Pattern</h2></summary>
 
-<details>
-  <summary><h2><a href="https://www.youtube.com/c/https://www.youtube.com/@im.not.ai.99" target="_blank">📺 YouTube - Videos & Tutorials</a></h2></summary>
-  <p align="center">
-    <a href="https://www.youtube.com/c/https://www.youtube.com/@im.not.ai.99" target="blank">
-      <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-  </p>
-</details>
-
 
 <details> 
   <summary><h2>📺 YouTube - Videos & Tutorials</h2></summary>
 
 
-  <details> 
+<details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
 
 <h3>⌨ Languages & Libraries</h3>
