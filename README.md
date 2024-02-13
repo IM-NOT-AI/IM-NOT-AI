@@ -42,6 +42,7 @@
   <details> 
   <summary><h2>🛠️ Tools - Languages & Softwares</h2></summary>
 
+
 <h3>☁️ Cloud Servers</h3>
   <p align="left">
     <a href="https://skillicons.dev">
@@ -50,12 +51,6 @@
   </p>
 </details>
 
-<h3>🛢 Database</h3>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="skillsicons.dev/icons?i=mysql,postgresql" />
-    </a>
-  </p>
       
   <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
