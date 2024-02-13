@@ -36,7 +36,7 @@
 
 
 <details> 
-  <summary><h2>📺 YouTube - Videos</h2></summary>
+  <summary><h2>📺 YouTube - Videos & Tutorials</h2></summary>
 
 
   <details> 
@@ -44,7 +44,7 @@
 
 
   <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
 
 <h3 align="left">Connect with me:</h3>
