@@ -138,7 +138,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-  <details> 
+<details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
 
 <p align="left">
@@ -156,6 +156,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
   </a>
 </p>
+
 </details>
 
 
