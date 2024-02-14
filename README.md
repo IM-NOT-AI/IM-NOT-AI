@@ -140,7 +140,6 @@
 
 <details> 
   <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
-
 <p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165"/>
@@ -156,7 +155,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
   </a>
 </p>
-
 </details>
 
 
