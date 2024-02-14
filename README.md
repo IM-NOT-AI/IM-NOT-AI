@@ -33,7 +33,6 @@
 
 <details> 
   <summary><h2>📚 Repositories - Design Pattern</h2></summary>
-</details>
 
 <h3>📒 Sequential Structure Pattern</h3>
 
@@ -48,6 +47,7 @@
 
 <h3>📘 CP ➡ Collaborative Project</h3>
 
+</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
@@ -55,6 +55,8 @@
   <summary><h2>▶ YouTube - Videos & Tutorials</h2></summary>
 
   <h3>🔜 SOON 🔜</h3>
+  
+</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
@@ -154,7 +156,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
   </a>
 </p>
-
+</details>
 
 
 
@@ -172,3 +174,4 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</details>
