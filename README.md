@@ -35,7 +35,7 @@
   <summary><h2>📚 Repositories - Design Pattern</h2></summary>
 
   <h3>❗ Sequential Structure Pattern ❗</h3>
-  <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/raw/main/assets/113378671/f1e503bd-f9f6-4175-a63d-b2893febc667" alt="Structure Pattern" style="max-width: 100%; height: auto;"/>
+  <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/raw/main/assets/113378671/aedc8b41-f8c5-448c-8e3a-06d1a04447ff" alt="Structure Pattern V2" style="max-width: 100%; height: auto;"/>
 </details>
 
 
