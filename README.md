@@ -39,13 +39,13 @@
 ![structure_pattern_v2](https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/d1338931-3411-4997-ac17-344954bcc7f6)
 
 
-<h3>📗 LM ➡ Learning Methodology</h3>
+<h3>📗 LM ↔ Learning Methodology</h3>
 
 
-<h3>📕 SP ➡ Single Project</h3>
+<h3>📕 SP ↔ Single Project</h3>
 
 
-<h3>📘 CP ➡ Collaborative Project</h3>
+<h3>📘 CP ↔ Collaborative Project</h3>
 
 </details>
 
