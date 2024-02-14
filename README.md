@@ -32,7 +32,16 @@
 
 
 <details open>
-  <summary><h2>📚 Repositories - Design Pattern</h2></summary>
+  <summary><b>📚 Repositories - Design Pattern</b></summary>
+  <details>
+    <summary><b>Structure Pattern</b></summary>
+    <p align="center">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/raw/main/assets/113378671/f1e503bd-f9f6-4175-a63d-b2893febc667" alt="structure-pattern">
+    </p>
+  </details>
+</details>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
