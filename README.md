@@ -32,9 +32,9 @@
 
 
 <details> 
-  <summary><h2>📚 Repositories - Design Pattern</h2>
+  <summary><h2>📚 Repositories - Design Pattern</h2></summary>
 
-<h3>📒 Sequential Structure Pattern </h3>
+  <h3>📒 Sequential Structure Pattern</h3>
 
 ![structure_pattern_v2](https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/d1338931-3411-4997-ac17-344954bcc7f6)
 </details>
