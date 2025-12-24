@@ -38,7 +38,7 @@ jobs:
           COLOR_SILVER = '#c0c0c0' # 5-6 commits
           COLOR_GOLD = '#ffd700'   # 7+ commits
 
-          # 1. Pegar dados (API Pública não oficial mas estável para contribuições)
+          # 1. Pegar dados
           try:
               r = requests.get(f'https://github-contributions-api.jogruber.de/v4/{USERNAME}?y=last')
               data = r.json()
@@ -47,19 +47,13 @@ jobs:
               exit(1)
 
           # 2. Montar o SVG manualmente
-          rects = []
           contributions = data['contributions']
           
           # Dimensões
           box_size = 10
           gap = 3
-          start_x = 0
           
-          # Iterar pelos dias (Agrupados por semana no JSON geralmente, ou lista plana)
-          # A API retorna uma lista plana de dias
-          
-          # Precisamos organizar em colunas (semanas) e linhas (dias da semana)
-          # Vamos criar um canvas SVG simples
+          # Canvas
           svg_width = 53 * (box_size + gap) + 20
           svg_height = 7 * (box_size + gap) + 20
           
@@ -68,20 +62,17 @@ jobs:
           content += f'<g transform=\"translate(10, 10)\">'
 
           for i, day in enumerate(contributions):
-              date_obj = datetime.strptime(day['date'], '%Y-%m-%d')
-              weekday = date_obj.weekday() # 0 = Seg, 6 = Dom. GitHub começa heatmap no Domingo geralmente ou ajusta.
+              # Extraindo variaveis ANTES para evitar erro de aspas no f-string
+              data_str = day['date']
+              count = day['count']
               
-              # Calcular posição (Semana x Dia)
-              # Simplificação: Vamos assumir sequencia
+              # Logica de posicao
               week_idx = i // 7
               day_idx = i % 7
-              
               x = week_idx * (box_size + gap)
               y = day_idx * (box_size + gap)
               
-              count = day['count']
-              
-              # LÓGICA DE CORES (Sua regra)
+              # Lógica de Cores
               fill = COLOR_EMPTY
               if count > 0:
                   if count >= 7:
@@ -91,7 +82,8 @@ jobs:
                   else:
                       fill = COLOR_BRONZE
               
-              content += f'<rect x=\"{x}\" y=\"{y}\" width=\"{box_size}\" height=\"{box_size}\" fill=\"{fill}\" rx=\"2\" ry=\"2\" data-date=\"{day['date']}\" data-count=\"{count}\"/>'
+              # Monta o quadrado (Agora sem erro de sintaxe)
+              content += f'<rect x=\"{x}\" y=\"{y}\" width=\"{box_size}\" height=\"{box_size}\" fill=\"{fill}\" rx=\"2\" ry=\"2\" data-date=\"{data_str}\" data-count=\"{count}\"/>'
 
           content += '</g></svg>'
 
