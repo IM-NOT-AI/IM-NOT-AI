@@ -1,0 +1,31 @@
+name: Generate Snake Medal Theme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # CORES DEFINIDAS: 
+          # Fundo Escuro -> Bronze -> Bronze/Prata -> Prata -> Ouro
+          ARGS: "--color_snake=#ffd700 --palette=#161b22,#cd7f32,#b08d55,#c0c0c0,#ffd700"
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
