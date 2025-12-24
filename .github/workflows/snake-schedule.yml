@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # AQUI ESTA A CORREÇÃO: As cores ficam na URL
+            # AQUI ESTA A CORREÇÃO: As cores ficam na URL na versão v3
             # color_snake=#161b22 -> Cobra invisível (cor do fundo)
             # color_dots -> Fundo, Bronze, Bronze-Claro, Prata, Ouro
             dist/github-contribution-grid-snake.svg?color_snake=#161b22&color_dots=#161b22,#cd7f32,#b08d55,#c0c0c0,#ffd700
