@@ -143,7 +143,7 @@
 
 <h3>🏆 Contribution Medals (Bronze • Silver • Gold)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IM-NOT-AI/IM-not-AI/output/github-contribution-grid-snake.svg" alt="Medal Contribution Heatmap" width="100%"/>
+  <img src="https://raw.githubusercontent.com/IM-NOT-AI/IM-not-AI/output/github-contribution-grid-snake.svg" alt="Contribution Heatmap" width="100%"/>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
