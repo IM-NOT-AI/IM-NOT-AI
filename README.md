@@ -139,30 +139,34 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <details> 
- <summary><h2>📊 Git Performace - Statistics & Activity</h2></summary>
+ <summary><h2>📊 Git Performance - Statistics & Activity</h2></summary>
 
 <h3>🏆 Contribution Medals (Bronze • Silver • Gold)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IM-NOT-AI/IM-not-AI/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/IM-NOT-AI/IM-not-AI/output/github-contribution-grid-snake.svg" alt="Medal Contribution Heatmap" width="100%"/>
 </p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
 <p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-stats.vercel.app/api?username=im-not-ai&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="165"/>
   </a>
 </p>
+
 <p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-not-ai&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 </p>
+
 <p align="left">
   <a href="https://github.com/im-not-ai">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-not-ai&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165"/>
   </a>
 </p>
-</details>
 
+</details>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
