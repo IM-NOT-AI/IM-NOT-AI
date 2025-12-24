@@ -22,16 +22,24 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run Python Script
+      - name: Run Python Script and Prepare Files
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: python medals.py
+        run: |
+          # 1. Roda o seu script (ele cria o medals.svg na raiz)
+          python medals.py
+          
+          # 2. Cria uma pasta limpa chamada 'dist'
+          mkdir -p dist
+          
+          # 3. Move o arquivo gerado para lá
+          mv medals.svg dist/
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist          # AGORA APONTA SÓ PARA A PASTA LIMPA
           keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
