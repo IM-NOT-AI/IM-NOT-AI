@@ -1,8 +1,8 @@
-name: Generate Snake Medal Theme
+name: Generate Medal Heatmap
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda todo dia meia-noite
+    - cron: "0 0 * * *"  # Roda meia-noite
   workflow_dispatch:      # Permite rodar manualmente
 
 jobs:
@@ -19,9 +19,15 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # CORES DEFINIDAS: 
-          # Fundo Escuro -> Bronze -> Bronze/Prata -> Prata -> Ouro
-          ARGS: "--color_snake=#ffd700 --palette=#161b22,#cd7f32,#b08d55,#c0c0c0,#ffd700"
+          # CONFIGURAÇÃO DE MEDALHAS:
+          # --color_snake=#161b22 : Cobra INVISÍVEL (mesma cor do fundo)
+          # --palette : Escala de Cores (Fundo -> Bronze -> Prata -> Ouro)
+          #    0. Fundo (#161b22)
+          #    1. Bronze (#cd7f32) - Poucos commits
+          #    2. Bronze Forte (#b08d55)
+          #    3. Prata (#c0c0c0) - Médios commits
+          #    4. Ouro (#ffd700) - Muitos commits
+          ARGS: "--color_snake=#161b22 --palette=#161b22,#cd7f32,#b08d55,#c0c0c0,#ffd700"
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
